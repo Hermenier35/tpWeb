@@ -4,6 +4,9 @@
 Réalisation dans le cadre d'un TP Web Engineering. <br />
 Utilisation de JS pour faire du dessin vectorielte.
 
+## Competences
+JavaScript, HTML, CSS
+
 ## Fonctionnalités :
 <ul>
     <li> Créations de diverses figures géométriques (rectangle, ligne, cercle)</li>
