@@ -1,7 +1,8 @@
-# Application Web pour faire du dessin Vectoriel
+# Dessin Vectoriel
 
 ## Description
-Réalisation dans le cadre d'un TP Web Engineering
+Réalisation dans le cadre d'un TP Web Engineering. <br />
+Utilisation de JS pour faire du dessin vectorielte.
 
 ## Fonctionnalités :
 <ul>
